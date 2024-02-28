@@ -33,4 +33,4 @@ To explore the Security Awareness Testing Web Application:
 ## Progress
 This is were i'll be updating my progress on the project by the date and what I did.
 
-- 2024-02-28: Created a basic template for the webapp. It has some information in each section. And the login page works, but doesn't have any backend for storing information and credentials for users yet. You can log-in in with 'admind' and 'password' which will direct to a blank page.
+- 2024-02-28: Created a basic template for the webapp. It has some information in each section. And the login page works, but doesn't have any backend for storing information and credentials for users yet. You can log-in in with 'admin' and 'password' which will direct to a blank page.
