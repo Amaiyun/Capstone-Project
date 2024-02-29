@@ -29,8 +29,3 @@ To explore the Security Awareness Testing Web Application:
 1. Clone the repository to your local machine.
 2. Open the `main.html` file in a web browser to access the main application.
 3. Navigate through different sections, including Home, Scenarios, About, and Login, to explore the platform's features and offerings.
-
-## Progress
-This is were i'll be updating my progress on the project by the date and what I did.
-
-- 2024-02-28: Created a basic template for the webapp. It has some information in each section. And the login page works, but doesn't have any backend for storing information and credentials for users yet. You can log-in in with 'admin' and 'password' which will direct to a blank page.
